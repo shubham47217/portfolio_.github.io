@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shubham | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Hi, I'm Shubham 👋</h1>
+    <p>Aspiring Web Developer | Coder | Learner</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a college student passionate about web development, trading, and learning new skills.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><b>Portfolio Website</b> – A simple portfolio using HTML, CSS, JS</li>
+      <li><b>College Event Page</b> – Event details with registration form</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:yourmail@gmail.com">yourmail@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Shubham | Made with ❤️</p>
+  </footer>
+</body>
+</html>
